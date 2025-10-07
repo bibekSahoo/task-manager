@@ -1,2 +1,11 @@
 # task-manager
+
 Task manager with draggable feature. Project will start with react and then will be migrated to next and deployed.
+
+To start project locally: Clone it
+npm install
+npm start
+
+# 🎬 Demo
+
+![Demo](public/task_mng.gif)
